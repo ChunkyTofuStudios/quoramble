@@ -141,6 +141,3 @@ collections:
 
 # Markdown rendering
 markdown: kramdown
-
-url: "https://chunkytofustudios.com"
-baseurl: "/quoramble"
