@@ -42,7 +42,7 @@ features                                  :
     
   - title                                 : Deep thinking
     description                           : The infamous quotes from world famous authors will give you a broader perspective on life.
-    fontawesome_icon_name                 : thought-bubble
+    fontawesome_icon_name                 : comments
 
   - title                                 : Improve your vocabulary
     description                           : Built in dictionary feature will allow you to look up words you don't know.
