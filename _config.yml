@@ -46,7 +46,7 @@ features                                  :
 
   - title                                 : Improve your vocabulary
     description                           : Built in dictionary feature will allow you to look up words you don't know.
-    fontawesome_icon_name                 : spell-check
+    fontawesome_icon_name                 : book
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
